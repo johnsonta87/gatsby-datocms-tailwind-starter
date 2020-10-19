@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Touchscreen App`,
+    title: `Gatsby DatoCMS Tailwind Starter`,
     description: `TBD`,
     author: `@TBD`,
   },
@@ -19,8 +19,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `touchscreen-app`,
-        short_name: `touchscreen`,
+        name: `gatsby-datocms-tailwind-starter`,
+        short_name: `starter`,
         start_url: `/`,
         background_color: `#663399`,
         theme_color: `#663399`,
